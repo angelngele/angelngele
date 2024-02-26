@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👨‍💻 Angel Ngele 👋
 
+
+**`IT Solutions Engineer (COACH/DEVELOPER/CREATOR)`**
+
+I am a software engineer with a diverse spectrum of expertise ranging from programming, engineering, design, and networking to marketing, customer service, communications, and leadership. I am the Founder of Advanced Digitalization and I help people from all around the world get into tech and businesses build solutions which includes websites, applications, games, designs and more. All coding projects are built from the ground up, from wireframing to designing to development to creating real-life solutions with code.
 <!--
-**angelngele/angelngele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
