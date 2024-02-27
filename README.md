@@ -35,15 +35,15 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.">
-    <img alt="course watch time" title="Explore now" src="./images/course.svg"/></a>
+    <img alt="courses" title="Explore now" src="./images/course.svg"/></a>
   <!-- <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
   <a href="https://github">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
+  <a href="https://instagram.com/angel.ngele">
+    <img alt="total social media followers" title="Follow me on my socials" src="./images/follow.svg"/></a>
+  <a href="https://git">
+    <img alt="students" title="students" src="./images/students.svg"/></a>
 </p>
 
 <br/>
