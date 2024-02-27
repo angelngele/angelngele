@@ -15,8 +15,14 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/angelngele">
+  ### 👨‍💻 Angel Ngele 👋
+
+
+**`IT Solutions Engineer (COACH/DEVELOPER/CREATOR)`**
+
+I am a software engineer with a diverse spectrum of expertise ranging from programming, engineering, design, and networking to marketing, customer service, communications, and leadership. I am the Founder of Advanced Digitalization and I help people from all around the world get into tech and businesses build solutions which includes websites, applications, games, designs and more. All coding projects are built from the ground up, from wireframing to designing to development to creating real-life solutions with code.
+    <!-- <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Angel Ngele" /></a> -->
 </p>
 
 <p align="center">
