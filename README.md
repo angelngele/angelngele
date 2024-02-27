@@ -15,8 +15,8 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/angel.ngele"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://www.instagram.com/angel.ngele"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.linkedin.com/in/angelngele/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/angel_ngele"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
@@ -25,7 +25,7 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@AdvancedDigitalization"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/>
+  <a href=""><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/>
 </p>
 
 <br/>
