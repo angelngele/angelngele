@@ -25,7 +25,7 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@AdvancedDigitalization"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/><
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/>
 </p>
 
 <br/>
@@ -34,6 +34,8 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
+  <p><a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="course watch time" title="Explore now" src="./images/course.svg"/></a>Courses</p>
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
