@@ -16,13 +16,17 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 -->
 <p align="center">
   <a href="https://github.com/angelngele">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Angel;Ngele+line+of+text" alt="Angel Ngele" /></a> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Angel+Ngele;IT+Solutions+Engineer+(COACH/DEVELOPER/CREATOR)" alt="Angel Ngele" /></a> 
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/angelngele">
     <img src="./images/edit.svg" /></a>
+</p>
+
+<p align="center">
+I am a software engineer with a diverse spectrum of expertise ranging from programming, engineering, design, and networking to marketing, customer service, communications, and leadership. I am the Founder of Advanced Digitalization and I help people from all around the world get into tech and businesses build solutions which includes websites, applications, games, designs and more. All coding projects are built from the ground up, from wireframing to designing to development to creating real-life solutions with code.
 </p>
 
 <!-- Social icons section -->
