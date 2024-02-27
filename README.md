@@ -16,7 +16,7 @@ I am a software engineer with a diverse spectrum of expertise ranging from progr
 -->
 <p align="center">
   <a href="https://github.com/angelngele">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Angel+Ngele;IT+Solutions+Engineer+(COACH/DEVELOPER/CREATOR)" alt="Angel Ngele" /></a> 
+  <img src="./images/name.svg" alt="Angel Ngele" /></a> 
 </p>
 
 <p align="center">
