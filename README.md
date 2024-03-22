@@ -21,9 +21,9 @@ I am a Software Engineer and Coach with a diverse spectrum of expertise ranging 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/angel_ngele"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/4jt6zVgJ" alt="Discord" title="Advanced Digitalization Discord Community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/invite/4jt6zVgJ" alt="Discord" title="SearchOver Discord Community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@AdvancedDigitalization"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"></a>
+  <a href="https://www.youtube.com/@angelngele"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/>
 </p>
@@ -34,15 +34,15 @@ I am a Software Engineer and Coach with a diverse spectrum of expertise ranging 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.">
+  <a href="">
     <img alt="courses" title="Explore now" src="./images/course.svg"/></a>
   <!-- <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
-  <a href="https://github">
+  <a href="">
     <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
   <a href="https://instagram.com/angel.ngele">
     <img alt="total social media followers" title="Follow me on my socials" src="./images/follow.svg"/></a>
-  <a href="https://git">
+  <a href="https://gi">
     <img alt="students" title="students" src="./images/students.svg"/></a>
 </p>
 
