@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-I am a software engineer with a diverse spectrum of expertise ranging from programming, engineering, design, and networking to marketing, customer service, communications, and leadership. I am the Founder of Advanced Digitalization and I help people from all around the world get into tech and businesses build solutions which includes websites, applications, games, designs and more. All coding projects are built from the ground up, from wireframing to designing to development to creating real-life solutions with code.
+I am a Software Engineer and Coach with a diverse spectrum of expertise ranging from programming, engineering, design, and networking to marketing, customer service, communications, and leadership. I am the Founder of SearchOver and I help people from all around the world get into tech and businesses build solutions which includes websites, applications, games, designs and more. All coding projects are built from the ground up, from wireframing to designing to development to creating real-life solutions with code. I also help people become their best selves. Go to Youtube Channel @angelngele for see how. 
 </p>
 
 <!-- Social icons section -->
