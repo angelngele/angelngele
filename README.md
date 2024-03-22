@@ -34,15 +34,15 @@ I am a Software Engineer and Coach with a diverse spectrum of expertise ranging 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="">
+  <a href="https://instagram.com/search.over">
     <img alt="courses" title="Explore now" src="./images/course.svg"/></a>
   <!-- <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
-  <a href="">
+  <a href="https://www.x.com/@angel_ngele">
     <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
   <a href="https://instagram.com/angel.ngele">
     <img alt="total social media followers" title="Follow me on my socials" src="./images/follow.svg"/></a>
-  <a href="">
+  <a href="https://www.youtube.com/@angelngele">
     <img alt="students" title="students" src="./images/students.svg"/></a>
 </p>
 
