@@ -42,7 +42,7 @@ I am a Software Engineer and Coach with a diverse spectrum of expertise ranging 
     <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
   <a href="https://instagram.com/angel.ngele">
     <img alt="total social media followers" title="Follow me on my socials" src="./images/follow.svg"/></a>
-  <a href="https://gi">
+  <a href="">
     <img alt="students" title="students" src="./images/students.svg"/></a>
 </p>
 
