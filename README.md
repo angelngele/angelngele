@@ -16,13 +16,11 @@ With a rich tapestry of programming, engineering, design, networking, marketing,
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/theangelngele/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg"/></a>
-  <a href="https://x.com/theangelngele"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bit.ly/thesearchover" alt="Discord" title="SearchOver Discord Community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@theangelngele"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://angelngele.github.io/theangelngele/"><img width="32px" alt="Website" title="Portfolio" src="https://i.imgur.com/PpLeD3K.png"/>
+  <a href="https://www.instagram.com/theangelngele/"><img width="32px" alt="LinkedIn" title="Instagram" src="./images/instagram.svg"/></a>
+  <a href="https://x.com/theangelngele"><img width="32px" alt="X" title="X" src="./images/x.svg"/></a>
+  <a href="https://bit.ly/thesearchover" alt="Discord" title="SearchOver Discord Community"><img width="32px" src="./images/discord.svg"/></a>
+  <a href="https://www.youtube.com/@theangelngele"><img width="32px" alt="Youtube" title="Youtube" src="./images/youtube.svg"></a>
+  <a href="https://angelngele.github.io/theangelngele/"><img width="32px" alt="Website" title="Portfolio" src="./images/website.png"/>
 </p>
 
 <br/>
