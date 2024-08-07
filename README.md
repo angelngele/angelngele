@@ -34,8 +34,8 @@ With a rich tapestry of programming, engineering, design, networking, marketing,
 <p align="center">
   <a href="https://instagram.com/search.ove">
     <img alt="courses" title="Explore now" src="./images/course.svg"/></a>
-  <!-- <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
+  <a href="https://www.youtube.com/@theangelngele">
+    <img alt="youtube views" title="YouTube views" src="./images/views.svg"/></a> 
   <a href="https://www.linkedin.com/in/theangelngele">
     <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
   <a href="https://linktr.ee/theangelngele">

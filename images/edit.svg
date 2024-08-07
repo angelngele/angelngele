@@ -17,7 +17,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            Full-stack web and app developer
+            Software Engineer @SearchOver
         </textPath>
     </text>
         <path id='path1'>
@@ -30,7 +30,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
-            Experienced UI/UX Designer
+            Ex-Information Assistant @Nestlé
         </textPath>
     </text>
         <path id='path2'>
@@ -43,7 +43,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
-            Nearly a decade of experience
+            Seven years of expertise
         </textPath>
     </text>
         <path id='path3'>
@@ -56,7 +56,7 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
-            Tech Coach and Creator
+            C/C++,Python,Js,Typescript,SQL
         </textPath>
     </text>
 </svg>
