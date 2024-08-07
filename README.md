@@ -40,7 +40,7 @@ With a rich tapestry of programming, engineering, design, networking, marketing,
     <img alt="testimonials" title="Total stars on courses" src="./images/testimonials.svg"/></a>
   <a href="https://linktr.ee/theangelngele">
     <img alt="total social medias" title="Follow me on my socials" src="./images/follow.svg"/></a>
-  <a href="https://www.youtube.com/@theangelngele">
+  <a href="https://bit.ly/thesearchover">
     <img alt="students" title="students" src="./images/students.svg"/></a>
 </p>
 
