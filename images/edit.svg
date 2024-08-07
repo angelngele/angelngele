@@ -39,7 +39,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Codeertrue", monospace' fill='#f75c7e' font-size='22'
+    <text font-family='"Fira Codeertrue", monospace' fill='#1155ba' font-size='22'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
@@ -52,7 +52,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Codeertrue", monospace' fill='#f75c7e' font-size='22'
+    <text font-family='"Fira Codeertrue", monospace' fill='#1155ba' font-size='22'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
