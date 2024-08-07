@@ -15,9 +15,7 @@ With a rich tapestry of programming, engineering, design, networking, marketing,
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/theangelngele"><img width="32px" alt="Instagram" title="Instagram" src="./images/instagram.svg"/></a>
-  <a href="https://www.linkedin.com/in/theangelngele/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/theangelngele/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg"/></a>
   <a href="https://x.com/theangelngele"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://bit.ly/thesearchover" alt="Discord" title="SearchOver Discord Community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
